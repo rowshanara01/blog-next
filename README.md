@@ -1,6 +1,6 @@
 # 🛠 Redux Toolkit + RTK Query Setup in Next.js/React
 
-This README will guide you through integrating **Redux Toolkit** and **RTK Query** into your Next.js or React project.
+This README will guide you through integrating **Redux Toolkit** and **RTK Query** into your Next.js or React project,
 
 ---
 
